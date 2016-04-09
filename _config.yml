@@ -67,6 +67,8 @@ popular_posts_count: 5
 # Build settings
 markdown: kramdown
 
+include: ['.htaccess']
+
 kramdown:
   parse_block_html: true
 
